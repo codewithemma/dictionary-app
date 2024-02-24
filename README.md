@@ -17,7 +17,7 @@ You can see a live demo of the app here: [Dictionary App Demo].
 
 To run the app locally, you need to have [Node.js] and [npm] installed on your system. Then, follow these steps:
 
-- Clone this repository: `git clone https://github.com/your-username/dictionary-app.git`
+- Clone this repository: `git clone https://github.com/codewithemma/dictionary-app.git`
 - Navigate to the project folder: `cd dictionary-app`
 - Install the dependencies: `npm install`
 - Start the development server: `npm start`

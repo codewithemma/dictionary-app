@@ -41,6 +41,7 @@ function App() {
     } finally {
       setLoading(false);
     }
+    setInput("");
   };
 
   // useEffect(() => {
