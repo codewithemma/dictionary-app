@@ -1,6 +1,6 @@
 # Dictionary App
 
-This project is a dictionary app that allows you to search for words and get their definitions, synonyms, antonyms, examples, and pronunciation. .
+This project is a dictionary app that allows you to search for words and get their definitions, transcription, examples, and pronunciation. .
 
 ## Demo
 
@@ -30,7 +30,6 @@ To use the app, you can follow these steps:
 - Enter a word in the search box and press the enter key or click on the search icon
 - You will see the word's definition, synonyms, antonyms, examples, and pronunciation
 - You can click on the speaker icon to listen to the audio pronunciation of the word
-- You can use the dropdown menu to select a different language
 - You can use the switch button to toggle between light and dark themes
 
 ## License
